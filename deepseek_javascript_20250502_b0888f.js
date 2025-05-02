@@ -2,25 +2,16 @@ document.addEventListener('DOMContentLoaded', function() {
     // Sample image data - replace with your actual images
     const imageData = {
         featured: [
-            { src: 'images/featured1.jpg', alt: 'Featured sunset', caption: 'Beautiful sunset at the beach' },
-            { src: 'images/featured2.jpg', alt: 'Featured mountain', caption: 'Snowy mountain peak' },
-            { src: 'images/featured3.jpg', alt: 'Featured city', caption: 'City skyline at night' }
+           { src: '/Focal_Klick/images/featured1.jpg' }
         ],
         nature: [
-            { src: 'images/nature1.jpg', alt: 'Forest path', caption: 'Sunlit forest path in autumn' },
-            { src: 'images/nature2.jpg', alt: 'Waterfall', caption: 'Majestic waterfall in the mountains' },
-            { src: 'images/nature3.jpg', alt: 'Wildflowers', caption: 'Colorful wildflowers in spring' },
-            { src: 'images/nature4.jpg', alt: 'Desert', caption: 'Vast desert landscape' }
+            { src: '/Focal_Klick/images/featured1.jpg' }
         ],
         travel: [
-            { src: 'images/travel1.jpg', alt: 'Paris', caption: 'Eiffel Tower at sunrise' },
-            { src: 'images/travel2.jpg', alt: 'Tokyo', caption: 'Busy streets of Tokyo' },
-            { src: 'images/travel3.jpg', alt: 'Venice', caption: 'Gondolas in Venice canals' }
+            { src: '/Focal_Klick/images/featured1.jpg' }
         ],
         portraits: [
-            { src: 'images/portrait1.jpg', alt: 'Woman portrait', caption: 'Studio portrait with natural light' },
-            { src: 'images/portrait2.jpg', alt: 'Man portrait', caption: 'Urban street portrait' },
-            { src: 'images/portrait3.jpg', alt: 'Child portrait', caption: 'Candid child portrait' }
+           { src: '/Focal_Klick/images/featured1.jpg' }
         ]
     };
 
