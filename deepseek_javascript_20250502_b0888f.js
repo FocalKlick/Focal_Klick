@@ -2,16 +2,16 @@ document.addEventListener('DOMContentLoaded', function() {
     // Sample image data - replace with your actual images
     const imageData = {
         featured: [
-           { src: '/Focal_Klick/images/featured1.jpg' }
+          { src: './images/featured1.jpg' }
         ],
         nature: [
-            { src: '/Focal_Klick/images/featured1.jpg' }
+            { src: './images/featured1.jpg' }
         ],
         travel: [
-            { src: '/Focal_Klick/images/featured1.jpg' }
+           { src: './images/featured1.jpg' }
         ],
         portraits: [
-           { src: '/Focal_Klick/images/featured1.jpg' }
+           { src: './images/featured1.jpg' }
         ]
     };
 
